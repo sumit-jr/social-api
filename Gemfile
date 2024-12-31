@@ -4,6 +4,7 @@ gem "bcrypt", "~> 3.1", ">= 3.1.12"
 gem "bootsnap", require: false
 gem "dotenv", "~> 2.1", ">= 2.1.1", groups: [ :development, :test ]
 gem "dotenv-rails", "~> 2.1", ">= 2.1.1"
+gem "jwt", "~> 1.5", ">= 1.5.4"
 gem "kamal", require: false
 gem "pg", "~> 1.1"
 gem "puma", ">= 5.0"
